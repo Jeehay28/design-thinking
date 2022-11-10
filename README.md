@@ -69,8 +69,8 @@
 
 
 - **주요 화면** 
-> ![](design-thinking-01.jpg)
-> ![](design-thinking-02.jpg)
+  > ![](design-thinking-01.jpg)
+  > ![](design-thinking-02.jpg)
 
 - **기대 효과** 
   > 정보 취약 계층도 편리한 모바일 뱅킹을 안전하게 사용할 수 있도록 함
@@ -127,11 +127,11 @@
 
 
 - **주요 화면** 
-> ![](design-thinking-03.jpg)
-> ![](design-thinking-04.jpg)
-> ![](design-thinking-05.jpg)
-> ![](design-thinking-06.jpg)
-> ![](design-thinking-07.jpg)
+  > ![](design-thinking-03.jpg)
+  > ![](design-thinking-04.jpg)
+  > ![](design-thinking-05.jpg)
+  > ![](design-thinking-06.jpg)
+  > ![](design-thinking-07.jpg)
 
 
 - **기대 효과** 
